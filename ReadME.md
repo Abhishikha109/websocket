@@ -14,6 +14,7 @@ rm -rf .git (to delete the git file)
 
 To run the Client and Server
 
+npm install
 npm start
 
 
