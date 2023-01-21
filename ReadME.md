@@ -17,4 +17,7 @@ To run the Client and Server
 npm install
 npm start
 
+youtube video link
+https://www.youtube.com/watch?v=djMy4QsPWiI
+
 
